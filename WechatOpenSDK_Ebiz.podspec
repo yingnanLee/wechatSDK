@@ -14,8 +14,8 @@ Pod::Spec.new do |spec|
   spec.platform         = :ios, '9.0'
 
   spec.public_header_files = "OpenSDK1.9.2/*.h"
-  spec.source_files        = "wechatSdk/OpenSDK1.9.2/*.{h,m,mm}"
-  spec.vendored_libraries  = 'wechatSdk/OpenSDK1.9.2/*.a'
+  spec.source_files        = "wechatSDK/OpenSDK1.9.2/*.{h,m,mm}"
+  spec.vendored_libraries  = 'wechatSDK/OpenSDK1.9.2/*.a'
   spec.frameworks            = 'CFNetwork', 'Security', 'CoreTelephony', 'SystemConfiguration', 'UIKit', 'CoreGraphics', 'Foundation', 'WebKit'
   spec.libraries           = 'z', 'sqlite3.0', 'c++'
 
