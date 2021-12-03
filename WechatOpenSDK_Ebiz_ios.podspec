@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |spec|
-  spec.name         = "WechatOpenSDK_Ebiz"
+  spec.name         = "WechatOpenSDK_Ebiz_ios"
   spec.version      = "1.9.2"
   spec.summary      = "WechatOpenSDK 1.9.2"
   spec.description  = <<-DESC
