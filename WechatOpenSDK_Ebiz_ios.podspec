@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
   spec.name         = "WechatOpenSDK_Ebiz_ios"
   spec.version      = "1.0.0"
-  spec.summary      = "WechatOpenSDK 1.9.2"
+  spec.summary      = "微信的1.9.2版本"
   spec.description  = <<-DESC
   WechatOpenSDK 1.9.2 完整版本
                    DESC
